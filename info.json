@@ -1,0 +1,38 @@
+[
+   {
+      "restaurantName":"KINDRED Restaurant",
+      "address":"137 Cleveland St, Darlington",
+      "lat":-33.888508,
+      "long":151.197756,
+      "place_id" : "ChIJ_XvwnNexEmsRnlHERcORjl8",
+      "average_rating" : 5,
+      "reviews":[
+         {
+            "rating":5,
+            "text":"Was excellent and we could not fault anything. Loved the chicken liver pate, the gnocchi was heavenly, the ribs were just amazing and the fondant was bitter and beautiful. The service was friendly and perfect. Shall recommend and surely go back."
+         },
+         {
+            "rating":5,
+            "text":"Great pasta and cannot wait to return! Good ambience and the service was excellent. It's ideal for a quick dinner before a show at the Seymour Centre"
+         }
+      ]
+   },
+   {
+      "restaurantName":"Tetsuya's Restaurant",
+      "address":"529 Kent St, Sydney",
+      "lat":-33.875154,
+      "long":151.204976,
+      "place_id" : "ChIJxXSgfDyuEmsR3X5VXGjBkFg",
+      "average_rating" : 5,
+      "reviews":[
+         {
+            "rating":5,
+            "text":"What a fantastic experience in every way. Outstanding service, perfect ambience, absolutely sensational food and a terrific wine matching, and the cadence of the meal was exceptional. Each course left me thinking that I wanted another mouthful, as they were all wonderful."
+         },
+         {
+            "rating":5,
+            "text":"What a beautiful experience! We came in for the tasting menu and had a great night! The service was top notch and I cannot say enough good things about the food. We are still talking about the Chocolate Stone dessert months later. The space they have is also beautiful. Try to get a window seat so you can enjoy the beautiful garden they have. We came in early evening and got to watch as the lights came on in the garden gradually after dark. A truly spectacular experience and I highly recommend it!"
+         }
+      ]
+   }
+]
